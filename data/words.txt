@@ -1,0 +1,9 @@
+java,spark,java
+scala,hadoop,java
+sqoop,flume,flink,data
+java,spark,java
+scala,hadoop,java
+sqoop,flume,flink,data
+java,spark,java
+scala,hadoop,java
+sqoop,flume,flink,data
